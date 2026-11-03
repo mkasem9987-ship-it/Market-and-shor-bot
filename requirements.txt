@@ -1,1 +1,1 @@
-pythyn-telegram-bot*
+pythyn-telegram-bot
